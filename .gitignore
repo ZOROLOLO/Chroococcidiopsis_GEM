@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Jupyter
+*.ipynb_checkpoints/
+
+# Temporary files
+*.tmp
+*.log
+
+# Environment and secrets
+.env
+.venv/
+venv/
+
+# Large model outputs
+*.pickle
+*.pkl
