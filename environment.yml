@@ -1,0 +1,9 @@
+
+name: gapseq
+
+channels:
+  - conda-forge
+  - bioconda
+
+dependencies:
+  - gapseq=2.1.0
